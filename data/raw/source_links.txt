@@ -1,0 +1,11 @@
+NYC 311 Service Requests from 2010 to Present
+Method: NYC Open Data API (Socrata)
+Endpoint: https://data.cityofnewyork.us/resource/erm2-nwe9
+Analysis window: 2022-01-01 through 2024-12-31
+
+NOAA Global Historical Climatology Network Daily - Central Park
+Method: Manual CSV download
+Station: USW00094728 (NY CITY CENTRAL PARK, NY US)
+File: https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/USW00094728.csv
+Station details: https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail
+
